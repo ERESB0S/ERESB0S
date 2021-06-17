@@ -6,6 +6,7 @@
 <a href="https://open.spotify.com/user/joe.barlow0" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 <a href="https://instagram.com/umit.berk17" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://github.com/ERESB0S" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+<img src="https://komarev.com/ghpvc/?username=ERESB0S&color=dc143c"/>
 </p>
 
 ## Langauges I Know:
@@ -17,9 +18,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 </br>
-<p align="left">
-   <img src="https://komarev.com/ghpvc/?username=ERESB0S&color=dc143c"/>
-</p>
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
    <img src="https://github-readme-stats.vercel.app/api?username=ERESB0S&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
