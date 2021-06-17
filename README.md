@@ -6,7 +6,7 @@
 <a href="https://open.spotify.com/user/joe.barlow0" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 <a href="https://instagram.com/umit.berk17" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://github.com/ERESB0S" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-<img src="https://komarev.com/ghpvc/?username=ERESB0S&color=dc143c"/>
+</br><img src="https://komarev.com/ghpvc/?username=ERESB0S&color=dc143c"/>
 </p>
 
 ## Langauges I Know:
