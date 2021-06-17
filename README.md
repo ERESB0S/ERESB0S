@@ -8,10 +8,6 @@
 <a href="https://github.com/ERESB0S" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ERESB0S&color=dc143c"/>
-</p>
-
 ## Langauges I Know:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -25,6 +21,6 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
-   <img src="https://komarev.com/ghpvc/?username=ERESB0S&color=dc143c"/>
    <img src="https://github-readme-stats.vercel.app/api?username=ERESB0S&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ERESB0S&layout=compact&theme=dark&hide_border=true" />
+   <img src="https://komarev.com/ghpvc/?username=ERESB0S&color=dc143c"/>
