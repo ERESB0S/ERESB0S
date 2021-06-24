@@ -7,6 +7,8 @@
 <a href="https://instagram.com/umit.berk17" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://github.com/ERESB0S" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </br><img src="https://komarev.com/ghpvc/?username=ERESB0S&color=dc143c"/>
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/239330400223232000?hideDiscrim=true)](https://discord.com/users/239330400223232000)
 </p>
 
 ## Langauges I Know:
