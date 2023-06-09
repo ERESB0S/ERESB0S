@@ -1,7 +1,7 @@
 # 👋 Eresbos
 This is where I open something open source and improve things 😋
 
-[![discord_social_eresbos](https://img.shields.io/badge/Discord-Eresbos%230001-6182e1)](https://discord.com/users/350976460313329665)
+[![discord_social_eresbos](https://img.shields.io/badge/Discord-@Eresbos-6182e1)](https://discord.com/users/350976460313329665)
 [![discord_social_eresbos](https://img.shields.io/badge/Discord-Guild_Link-6182e1)](https://discord.gg/ZS2TKFFadZ)
 [![github visitors eresbos](https://komarev.com/ghpvc/?username=ERESB0S&color=dc143c&label=Visitors&color=6182e1)](https://github.com/ERESB0S)
 <details>
