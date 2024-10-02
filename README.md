@@ -15,7 +15,7 @@ This is where I open something open source and improve things 😋
 
   <details>
     <summary> &nbsp; &nbsp; &nbsp; <b>Discord Presence</b></summary>
-    <img src="https://lanyard-profile-readme.vercel.app/api/350976460313329665?bg=0d1117">
+    <img src="https://lanyard-profile-readme.vercel.app/api/350976460313329665?bg=0d1117&showDisplayName=true">
   </details>
  </details>
  
